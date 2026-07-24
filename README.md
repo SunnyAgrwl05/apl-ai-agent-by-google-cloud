@@ -7,96 +7,169 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blueviolet)
 
-An AI-powered IPL assistant built using **React** and the **Gemini API** during the **Agentic Premier League (APL) AI Vibe Coding Challenge** organized by **GDG Patna**.
+<p align="center">
+  <img src="./assets/banner.png" alt="APL AI Agent Banner" width="100%">
+</p>
+
+<p align="center">
+  <strong>An AI-powered IPL assistant built using React and Gemini 2.5 Flash during the Agentic Premier League (APL) AI Vibe Coding Challenge organized by Google Cloud × GDG Patna.</strong>
+</p>
 
 ---
 
-## ✨ Features
+# ✨ Features
 
 - 🎙️ Live IPL Commentary
-- 🔮 Match Prediction
-- 📊 Player Analysis
+- 🔮 AI Match Prediction
+- 📊 Player Performance Analysis
 - 🧠 AI Strategy Advisor
 - ⚡ Powered by Gemini 2.5 Flash
 - 📱 Fully Responsive UI
+- 🌙 Modern Dark Theme
+- 🚀 Fast & Lightweight
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 | Category | Technology |
 |----------|------------|
-| Frontend | React.js |
-| Build Tool | Vite |
+| Frontend | React.js 19 |
+| Build Tool | Vite 7 |
 | AI Model | Gemini 2.5 Flash |
 | Styling | CSS3 |
 | Deployment | Vercel |
 
 ---
 
-## 🌐 Live Demo
+# 🌐 Live Demo
 
-**Website:** https://ipl-gemini-ai.vercel.app/
+🔗 **Website**
+
+https://ipl-gemini-ai.vercel.app/
 
 ---
 
-## 🚀 Getting Started
+# 🚀 Getting Started
+
+### Clone Repository
 
 ```bash
 git clone https://github.com/SunnyAgrwl05/apl-ai-agent-by-google-cloud.git
+```
 
+### Navigate to Project
+
+```bash
 cd apl-ai-agent-by-google-cloud
+```
 
+### Install Dependencies
+
+```bash
 npm install
+```
 
+### Run Development Server
+
+```bash
 npm run dev
 ```
 
----
+Open
 
-## 📂 Project Structure
-
-```text
-apl-ai-agent-by-google-cloud/
-│── public/
-│── src/
-│── package.json
-│── vite.config.js
-│── README.md
+```
+http://localhost:5173
 ```
 
 ---
 
-## 🚀 Roadmap
+# 📂 Project Structure
+
+```text
+apl-ai-agent-by-google-cloud/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── .env.example
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+# 🚀 Roadmap
 
 - [x] Live IPL Commentary
 - [x] Match Prediction
 - [x] Player Analysis
 - [x] Gemini AI Integration
+- [x] Responsive UI
 - [ ] Voice Assistant
 - [ ] Multi-language Support
 - [ ] Player Statistics Dashboard
 - [ ] Match History
+- [ ] Dark/Light Theme Toggle
+- [ ] Authentication
+- [ ] Live Score API Integration
 
 ---
 
-## 📄 License
+# 🤝 Contributing
+
+Contributions are always welcome!
+
+1. Fork the repository
+2. Create a new branch
+
+```bash
+git checkout -b feature/your-feature
+```
+
+3. Commit your changes
+
+```bash
+git commit -m "Add new feature"
+```
+
+4. Push your branch
+
+```bash
+git push origin feature/your-feature
+```
+
+5. Open a Pull Request 🚀
+
+---
+
+# 📄 License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-**Sunny Kumar**
+### Sunny Kumar
 
-- B.Tech CSE
-- GDG Patna Core Team
-- Google Student Ambassador
-- Beta MLSA
+- 🎓 B.Tech CSE
+- 🌟 GDG Patna Core Team
+- ☁️ Google Student Ambassador
+- 💙 Beta MLSA
+- 🚀 Open Source Contributor
 
 ---
 
-⭐ If you like this project, don't forget to **Star** the repository!
+<div align="center">
 
-**Powered by Gemini 2.5 Flash 🚀**
+### ⭐ If you found this project useful, please give it a Star!
+
+Made with ❤️ using **React + Gemini 2.5 Flash**
+
+</div>
